@@ -1,0 +1,5 @@
+00-00-0000 is not a valid date
+10-10-1981 is not a valid date
+This date is ok 12-25-1492
+13-32-10001 is not a valid date
+This date is ok 02-28-2004
